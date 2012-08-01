@@ -1,26 +1,25 @@
-= alpenbeat
+# alpenbeat
 
 alpenbeat is a small lighting controller that uses libbeat[https://github.com/mguentner/libbeat]
 for detecting and displaying a beat.
 
-It also displays the current channels in a openGL widget
+  It also displays the current channels in a openGL widget
 
-== Dependencies
+## Dependencies
 
  * qt
- * libbeat
- * ola
+  * libbeat
+   * ola
 
-== Compiling
-
+## Compiling
 Simply run
 
-  qmake
-  make
+    qmake
 
-in the root directory to build it.
+        make
 
-== License
+        in the root directory to build it.
+
+## License
 
 Copyright (c) 2012 Maximilian Güntner <maximilian.guentner@gmail.com> under the GPL v2
-
