@@ -7,18 +7,17 @@ for detecting and displaying a beat.
 
 ## Dependencies
 
- * qt
-  * libbeat
-   * ola
+* qt
+* libbeat
+* ola
 
 ## Compiling
 Simply run
-
-    qmake
-
-        make
-
-        in the root directory to build it.
+```
+qmake
+make
+```
+in the root directory to build it.
 
 ## License
 
